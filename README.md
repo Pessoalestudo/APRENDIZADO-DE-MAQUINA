@@ -9,7 +9,8 @@
 
   ### DESCRIÇÃO
 
-  - Nosso projeto trata-se de uma de Projeto de extensão universitária, trabalhamos em uma criação e desenvolvimento web site, referenciando um site e-commerce.
+  - Nosso projeto trata-se de uma de Projeto de extensão universitária, trabalhamos em uma criação e desenvolvimento web site com chatbot baseado em IA, referenciando um site e-commerce.
+  - Chatbot desenvolvido para sanar duvidas e melhorar o processo de comunicação e ganhar velocidade no atendimento.
 
     Link de produção:
     - Vs code Studio
